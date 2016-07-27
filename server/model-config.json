@@ -12,5 +12,13 @@
       "../common/mixins",
       "./mixins"
     ]
+  },
+  "product": {
+    "dataSource": "node-storefront",
+    "public": true
+  },
+  "review": {
+    "dataSource": "node-storefront",
+    "public": false
   }
 }
